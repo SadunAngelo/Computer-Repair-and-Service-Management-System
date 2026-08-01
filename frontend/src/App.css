@@ -1,0 +1,124 @@
+/* Import a modern, clean font from Google */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+  background-color: #052644; /* Soft blue-gray background */
+  color: #334155;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+/* The main white box that holds your app */
+.app-container {
+  max-width: 700px;
+  margin: 50px auto;
+  padding: 40px;
+  background: #b0d5d6;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.05);
+}
+
+/* Navigation Menu */
+.main-nav {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #e2e8f0;
+}
+
+.nav-link {
+  text-decoration: none;
+  font-weight: 600;
+  padding: 10px 20px;
+  border-radius: 8px;
+  transition: all 0.2s ease;
+}
+
+.nav-link.home { background: rgb(247, 249, 247); color: #000306; border: 1px solid rgba(59,130,246,0.3); }
+.nav-link.home:hover { background: rgb(177, 179, 177); }
+
+.nav-link.customer { background: #e0f2fe; color: #0284c7; }
+.nav-link.customer:hover { background: #bae6fd; }
+
+.nav-link.admin { background: #fee2e2; color: #dc2626; }
+.nav-link.admin:hover { background: #fecaca; }
+
+/* Forms and Inputs */
+.custom-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 30px;
+}
+
+input, textarea, select {
+  padding: 14px;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  font-size: 16px;
+  font-family: inherit;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+input:focus, textarea:focus, select:focus {
+  outline: none;
+  border-color: #3b82f6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
+}
+
+/* Beautiful Buttons */
+button {
+  padding: 14px 24px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.1s ease, filter 0.2s ease;
+}
+
+button:hover { filter: brightness(1.1); transform: translateY(-2px); }
+button:active { transform: translateY(1px); }
+
+.btn-primary { background: #3b82f6; color: white; }
+.btn-success { background: #10b981; color: white; }
+.btn-danger { background: #ef4444; color: white; }
+.btn-secondary { background: #64748b; color: white; }
+.btn-dark { background: #1e293b; color: white; }
+
+/* Ticket Cards */
+.ticket-card {
+  border: 1px solid #e2e8f0;
+  padding: 24px;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  background: #ffffff;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.02);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.ticket-card:hover { 
+  box-shadow: 0 8px 20px rgba(0,0,0,0.06); 
+  transform: translateY(-2px);
+}
+        
+.ticket-card h3 { margin-top: 0; color: #0f172a; font-size: 20px; }
+
+.status-badge {
+  display: inline-block;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 700;
+  background: #fef3c7;
+  color: #b45309;
+}
+
+/* Dividers */
+hr {
+  border: 0;
+  height: 1px;
+  background: #e2e8f0;
+  margin: 20px 0;
+}
