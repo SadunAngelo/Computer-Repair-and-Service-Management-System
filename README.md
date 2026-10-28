@@ -18,7 +18,7 @@ A full-stack **MERN** web application engineered for hardware diagnostic laborat
 * **Public Tracking Portal:**
   * Real-time search by Tracking ID or Customer Name without login credentials.
 * **Technician Administration & Diagnostics:**
-  * Password-protected administrative access (`admin123`).
+  * Password-protected administrative access.
   * Live financial analytics (*Earned Revenue*, *Pending Revenue*, *Total Pipeline*).
   * Status filtering tabs with dynamic live badge counts (*All Active*, *Pending*, *Diagnosing*, *Waiting on Parts*, *Completed*).
   * In-memory sorting by receipt date or service cost without DOM reloads.
@@ -69,3 +69,16 @@ cd backend
 npm install
 node server.js
 # Backend runs on http://localhost:5000
+---
+
+3. Frontend Setup
+Bash
+cd frontend
+npm install
+npm start
+# Frontend runs on http://localhost:3000
+---
+
+👨‍💻 Author
+Sadun Angelo — Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna.
+
