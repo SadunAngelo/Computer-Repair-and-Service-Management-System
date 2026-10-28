@@ -83,3 +83,35 @@ npm start
 
 ## 👨‍💻 Author
 * **Sadun Angelo** — Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna.
+
+## 📸 Screenshots
+
+<img width="625" height="772" alt="Screenshot 2026-10-27 143518" src="https://github.com/user-attachments/assets/3cd3f1ed-f13f-4a78-87b3-eac80a7876a3" />
+
+<img width="618" height="768" alt="Screenshot 2026-10-27 143955" src="https://github.com/user-attachments/assets/7e8bd215-bbd7-49a1-8078-c27d84a00908" />
+
+<img width="1213" height="808" alt="Screenshot 2026-10-27 151442" src="https://github.com/user-attachments/assets/6dfc5451-da48-4cb1-8429-bee1a5bf99fe" />
+
+<img width="1228" height="600" alt="Screenshot 2026-10-27 151537" src="https://github.com/user-attachments/assets/8288f374-bbe2-47ab-bbc4-4a480ca49162" />
+
+<img width="807" height="867" alt="Screenshot 2026-10-27 151739" src="https://github.com/user-attachments/assets/0357a385-e9f1-4f95-9837-3655c949c0ca" />
+
+<img width="836" height="792" alt="Screenshot 2026-10-27 151820" src="https://github.com/user-attachments/assets/99f5076c-1578-4702-ae3b-ac4421c23717" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
