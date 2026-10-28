@@ -99,7 +99,12 @@ npm start
 <img width="836" height="792" alt="Screenshot 2026-10-27 151820" src="https://github.com/user-attachments/assets/99f5076c-1578-4702-ae3b-ac4421c23717" />
 
 
+## 🎥 Project Demonstration
 
+[![Google Drive Video](https://img.shields.io/badge/Google%20Drive-Watch%20Walkthrough%20Video-blue?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1_3d5t4eIn8h1T64d0gHOsiag66cfDt0W/view?usp=sharing)
+
+* **Duration:** ~5 Minutes
+* **Coverage:** System walkthrough, MongoDB Atlas relational schema, dynamic PDF receipt generation, and soft-deletion archival demo.
 
 
 
