@@ -69,16 +69,17 @@ cd backend
 npm install
 node server.js
 # Backend runs on http://localhost:5000
----
+```
 
-3. Frontend Setup
-Bash
+### 3. Frontend Setup
+```bash
 cd frontend
 npm install
 npm start
 # Frontend runs on http://localhost:3000
+```
+
 ---
 
-👨‍💻 Author
-Sadun Angelo — Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna.
-
+## 👨‍💻 Author
+* **Sadun Angelo** — Department of Electrical and Information Engineering, Faculty of Engineering, University of Ruhuna.
